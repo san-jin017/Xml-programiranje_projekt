@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ponuda>
+  <jelo>
+    <naziv>Piletina u umaku od gljiva</naziv>
+    <opis>Sočna piletina s kremastim umakom od šampinjona</opis>
+    <cijena>9.00</cijena>
+  </jelo>
+  <jelo>
+    <naziv>Sarma</naziv>
+    <opis>Tradicionalno jelo od kiselog kupusa i mesa</opis>
+    <cijena>11.50</cijena>
+  </jelo>
+  <jelo>
+    <naziv>Pizza Capricciosa</naziv>
+    <opis>Pizza s gljivama, šunkom i sirom</opis>
+    <cijena>8.00</cijena>
+  </jelo>
+</ponuda>

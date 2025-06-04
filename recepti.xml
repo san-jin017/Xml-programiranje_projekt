@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recepti autor="Sanjin" >
+  <recept>
+    <naziv>Pizza Capricciosa</naziv>
+     <slika>slike/pizza.jpg</slika>
+    <sastojci>
+      <sastojak>tijesto za pizzu</sastojak>
+      <sastojak>rajčica</sastojak>
+      <sastojak>šunka</sastojak>
+      <sastojak>gljive</sastojak>
+      <sastojak>sir</sastojak>
+      <sastojak>masline</sastojak>
+    </sastojci>
+    <priprema>Razvaljajte tijesto, premažite umakom od rajčice, dodajte ostale sastojke. Pecite na 220°C oko 15 minuta.</priprema>
+  </recept>
+  <recept>
+    <naziv>Sarma</naziv>
+     <slika>slike/sarma.jpg</slika>
+    <sastojci>
+      <sastojak>kiseli kupus</sastojak>
+      <sastojak>mljeveno meso</sastojak>
+      <sastojak>riža</sastojak>
+      <sastojak>luk</sastojak>
+      <sastojak>začini</sastojak>
+    </sastojci>
+    <priprema>Zamotajte nadjev u listove kupusa. Kuhajte u loncu s vodom, koncentratom rajčice i začinima 2-3 sata.</priprema>
+  </recept>
+  <recept>
+    <naziv>Tiramisu</naziv>
+     <slika>slike/tiramisu.jpg</slika>
+    <sastojci>
+      <sastojak>piškote</sastojak>
+      <sastojak>mascarpone</sastojak>
+      <sastojak>jaja</sastojak>
+      <sastojak>šećer</sastojak>
+      <sastojak>kava</sastojak>
+      <sastojak>kakao</sastojak>
+    </sastojci>
+    <priprema>Umutite kremu od mascarponea i jaja. Redajte piškote namočene u kavu i slojeve kreme. Posipajte kakaom. Ohladite nekoliko sati prije posluživanja.</priprema>
+  </recept>
+</recepti>

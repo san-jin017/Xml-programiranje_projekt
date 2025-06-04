@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korisnici>
+  <korisnik>
+    <ime>Marko</ime>
+    <prezime>Marković</prezime>
+    <username>marko01</username>
+    <password>lozinka123</password>
+    <stol>5</stol>
+  </korisnik>
+  <korisnik>
+    <ime>Ana</ime>
+    <prezime>Novak</prezime>
+    <username>ana22</username>
+    <password>pass456</password>
+    <stol>2</stol>
+  </korisnik>
+  <korisnik>
+    <ime>Luka</ime>
+    <prezime>Kovač</prezime>
+    <username>luka_k</username>
+    <password>123abc</password>
+    <stol>3</stol>
+  </korisnik>
+  <korisnik>
+    <ime>Iva</ime>
+    <prezime>Horvat</prezime>
+    <username>iva_h</username>
+    <password>ivapass</password>
+    <stol>1</stol>
+  </korisnik>
+  <korisnik>
+    <ime>Petra</ime>
+    <prezime>Radić</prezime>
+    <username>petra</username>
+    <password>radic88</password>
+    <stol>4</stol>
+  </korisnik>
+</korisnici>
